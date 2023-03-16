@@ -20,7 +20,7 @@
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark"
 		style="font-style: italic; font-weight: bold;">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="#">RGmail</a>
+			<a class="navbar-brand" href="#">Gmail</a>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
 				aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -69,12 +69,12 @@
 		<button class="carousel-control-prev" type="button"
 			data-bs-target="#carouselExampleControls" data-bs-slide="prev">
 			<span class="carousel-control-prev-icon" aria-hidden="true"></span> <span
-				class="visually-hidden">Previous</span>
+				class="visually-hidden">&laquo; Previous</span>
 		</button>
 		<button class="carousel-control-next" type="button"
 			data-bs-target="#carouselExampleControls" data-bs-slide="next">
 			<span class="carousel-control-next-icon" aria-hidden="true"></span> <span
-				class="visually-hidden">Next</span>
+				class="visually-hidden">Next &raquo;</span>
 		</button>
 	</div>
 
